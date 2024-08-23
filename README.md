@@ -5,3 +5,8 @@
 -->Defult directory structure for maven archetype = "maven-archetype-quickstart"
 
 ![image](https://github.com/user-attachments/assets/31a1eae2-2ff5-43b1-b8d7-9000c000d6ee)
+
+--> Typical Maven standalone-application directory structure
+
+![image](https://github.com/user-attachments/assets/3b8f3297-bf11-41ff-990e-ae4feace9b7b)
+
