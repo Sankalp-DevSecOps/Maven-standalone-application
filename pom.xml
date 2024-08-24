@@ -55,7 +55,7 @@
         <configuration>
           <archive>
             <manifestEntries>
-              <Main-Class>com.mycompany.app.MainClass</Main-Class>
+              <Main-Class>com.mycompany.app.App</Main-Class>
             </manifestEntries>
           </archive>
         </configuration>
